@@ -4,7 +4,7 @@
 int
 main(void)
 {
-  printf("hi github\n");
+  printf("blah\n");
 
   return (EXIT_SUCCESS); /* EXIT */
 
