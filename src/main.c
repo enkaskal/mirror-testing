@@ -4,7 +4,7 @@
 int
 main(void)
 {
-  printf("hello forgejo!\n");
+  printf("hello forgejo\n");
 
   return (EXIT_SUCCESS); /* EXIT */
 
