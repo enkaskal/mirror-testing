@@ -4,7 +4,7 @@
 int
 main(void)
 {
-  printf("BLAH\n");
+  printf("blah\n");
 
   return (EXIT_SUCCESS); /* EXIT */
 
